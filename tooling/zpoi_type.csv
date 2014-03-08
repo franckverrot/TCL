@@ -1,0 +1,8 @@
+1,,,0,1,1,ligne_terminus.png,TERMINUS,"Terminus des lignes principales"
+2,,,0,1,1,,LINE_LABEL,"Libellés des lignes principales"
+3,,,1,1,4,map_picto_agences_commerciales.png,AGE,"Agence commerciale TCL"
+4,,,1,1,4,map_picto_points_service.png,DEP,"Point service TCL"
+5,,,1,1,4,map_picto_distributeurs_bancaires.png,GAB,"Guichet Automatique de Banque"
+6,,,1,1,2,map_picto_pr.png,REL,"Parc relais TCL"
+7,,,1,1,4,map_picto_ris.png,RIS,"Relais infos services TCL"
+8,,,1,1,4,map_picto_velov.png,VELOV,"Bornes Velo'V"
